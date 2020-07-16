@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>store_name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-15 18:28:33</sys_created_on>
+        <sys_data_policy display_value="Sets the Store name field to mandatory">71277c991b0e1c10eb1496482b4bcb35</sys_data_policy>
+        <sys_id>4a277c991b0e1c10eb1496482b4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name</sys_name>
+        <sys_package display_value="Shopping List" source="x_snc_shopping_lis">05e5b0991b0e1c10eb1496482b4bcb82</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">05e5b0991b0e1c10eb1496482b4bcb82</sys_scope>
+        <sys_update_name>sys_data_policy_rule_4a277c991b0e1c10eb1496482b4bcb38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-15 18:28:33</sys_updated_on>
+        <table>x_snc_shopping_lis_store</table>
+    </sys_data_policy_rule>
+</record_update>
